@@ -1,0 +1,18 @@
+Data preprocessing
+.separate the fetaures/independent variables/input and traget/output/outcome/dependent variable
+.replace the outcome values with numerical values if they categorical 
+.clean the data
+	-data types
+.replace categorical data with numerical data
+.data normaliazation technique for outliers
+	*min-max technique
+	*z-score technique
+	*decimal scaling
+
+.feature selection
+	*univariate selection
+	*feature importance
+	*use correlation matrix with heatmap/analysis
+	*rating scale
+	*correalation coefficient
+	pearson correlation and spearman rank
